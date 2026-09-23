@@ -9,3 +9,5 @@ def dot_product (a,b) :
 
 print("Hello Machine Learning!")
 print("This is my first Git update")
+
+print("Testing AI branch")
