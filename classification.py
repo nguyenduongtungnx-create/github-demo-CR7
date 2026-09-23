@@ -52,3 +52,5 @@ df =  pd.read_csv('your_data.csv')
 df = df.drop(columns=['team_a_rounds','team_b_round'])
 profile = ProfileReport(df,title ="CS Match Data Report",exploration = True)
 profile.to_file("report.html")
+
+ print("enter the number of feature")
