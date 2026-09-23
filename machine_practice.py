@@ -5,3 +5,7 @@ def dot_product (a,b) :
     w0 = 0
     for i in range(3) :
         result =
+
+
+print("Hello Machine Learning!")
+print("This is my first Git update")
